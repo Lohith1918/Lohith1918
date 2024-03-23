@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lohith Konchada
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning cloud computing
-- 📫 You can reach me through my email krpdl1904@gmail.com and through my LinkedIn https://www.linkedin.com/in/lohith-konchada
+- 📫 You can reach me at krpdl1904@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/lohith-konchada
 - 😄 Pronouns: He/him
 
 <!---
